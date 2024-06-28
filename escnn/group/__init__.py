@@ -24,8 +24,8 @@ from .groups.cyclicgroup import CyclicGroup
 from .groups.dihedralgroup import DihedralGroup
 from .groups.so2group import SO2
 from .groups.o2group import O2
-from .groups.so3group import SO3
-from .groups.o3group import O3
+#from .groups.so3group import SO3
+#from .groups.o3group import O3
 from .groups.ico import Icosahedral
 from .groups.octa import Octahedral
 
